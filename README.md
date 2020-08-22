@@ -19,8 +19,7 @@ We are working to offer a system that makes usability simple, it is specifically
 
 You can find much more about how to use this project in our [documentation section](https://github.com/estalvgs1999/CE3104-Fun-Skills/tree/master/docs)
 
-## ORBE Team 
-
+## Authors
 This project has an excellent development group formed by ITCR computer engineering students
 
 * **Esteban Alvarado** - *Backend Software Developer* - [@estalvgs1999](https://github.com/estalvgs1999)
@@ -39,10 +38,5 @@ This project is under License (GNU General Public License) - see the file [LICEN
 
 ---
 <p align="center">
-
   <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="50"/>
-  <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1594923890/HospitalMS/GITHUB/2_mnot4u.png" width="100"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png" width="50"/>
-  <img src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png" width="50"/>
 </p>
