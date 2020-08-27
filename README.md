@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1594922121/HospitalMS/GITHUB/logo-orbe-white-bg_qxdhfb.png" alt="HospitalRun logo"/>
+<img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1597897390/Whitetail/HospitalMS/logo_horizontal.png"/>
 
 <p align="center">
   <img
@@ -38,5 +38,5 @@ This project is under License (GNU General Public License) - see the file [LICEN
 
 ---
 <p align="center">
-  <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="50"/> 
+  <img src="https://res.cloudinary.com/estalvgs1999/image/upload/v1597897265/Whitetail/HospitalMS/logo_sin-nombre.png" width="50"/> 
 </p>
