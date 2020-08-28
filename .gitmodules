@@ -1,3 +1,6 @@
 [submodule "HospitalMS - App"]
 	path = HospitalMS - App
 	url = https://github.com/estalvgs1999/CE3101-HospitalMS-App.git
+[submodule "HospitalMS - API"]
+	path = HospitalMS - API
+	url = https://github.com/estalvgs1999/CE3101-HospitalMS-API
