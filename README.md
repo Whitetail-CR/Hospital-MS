@@ -13,7 +13,8 @@
 <hr />
 </div>
 
-🏥 **HospitalMS** is an administration system for hospitals and medical centers developed by ITCR students. This repository holds all of HospitalMS's open source projects that lived in their own separate Github repos: frontend and server. Built with Angular, NestJS, PostgreSQL and MongoDB.</break>
+## 🏥 Hospital Management System
+**HospitalMS** is an administration system for hospitals and medical centers developed by ITCR students. This repository holds all of HospitalMS's open source projects that lived in their own separate Github repos: frontend and server. Built with Angular, NestJS, PostgreSQL and MongoDB.</break>
 We are working to offer a system that makes usability simple, it is specifically designed for the TEC clinic requirements but can be scalable to any Hospital. **HospitalMS wants patient care to be the only thing you need to worry about!**
 
 
