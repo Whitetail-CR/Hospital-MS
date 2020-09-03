@@ -35,7 +35,7 @@ This project has an excellent development group formed by ITCR computer engineer
 
 ## Licence 📄
 
-This project is under License (GNU General Public License) - see the file [LICENSE.md](https://github.com/estalvgs1999/CE3101-HospitalMS) for details
+This project is under License (GNU General Public License) - see the file [LICENSE.md](https://github.com/Whitetail-CR/Hospital-MS/blob/master/LICENSE) for details
 
 ---
 <p align="center">
