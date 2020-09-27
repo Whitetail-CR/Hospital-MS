@@ -30,7 +30,7 @@ This project has an excellent development group formed by ITCR computer engineer
 
 
 
-<p align="center"> Project developed at the <b>Technological Institute of Costa Rica</b> | 2020 🄯</p>
+<p align="center"> Project developed at the <b>ITCR</b> | 2020 🄯</p>
 
 
 ## Licence 📄
